@@ -1,0 +1,354 @@
+Pound	100	40	35	NORMAL
+Karate Chop	100	50	25	FIGHTING
+DoubleSlap	85	15	10	NORMAL
+Comet Punch	85	18	15	NORMAL
+Mega Punch	85	80	20	NORMAL
+Pay Day	100	40	20	NORMAL
+Fire Punch	100	75	15	FIRE
+Ice Punch	100	75	15	ICE
+ThunderPunch	100	75	15	ELECTRIC
+Scratch	100	40	35	NORMAL
+ViceGrip	100	55	30	NORMAL
+Guillotine	30	-1	5	NORMAL
+Razor Wind	100	80	10	NORMAL
+Swords Dance	0	0	30	NORMAL
+Cut	95	50	30	NORMAL
+Gust	100	40	35	FLYING
+Wing Attack	100	60	35	FLYING
+Whirlwind	100	0	20	NORMAL
+Fly	95	70	15	FLYING
+Bind	75	15	20	NORMAL
+Slam	75	80	20	NORMAL
+Vine Whip	100	35	10	GRASS
+Stomp	100	65	20	NORMAL
+Double Kick	100	30	30	FIGHTING
+Mega Kick	75	120	5	NORMAL
+Jump Kick	95	70	25	FIGHTING
+Rolling Kick	85	60	15	FIGHTING
+Sand-Attack	100	0	15	GROUND
+Headbutt	100	70	15	NORMAL
+Horn Attack	100	65	25	NORMAL
+Fury Attack	85	15	20	NORMAL
+Horn Drill	30	-1	5	NORMAL
+Tackle	95	35	35	NORMAL
+Body Slam	100	85	15	NORMAL
+Wrap	85	15	20	NORMAL
+Take Down	85	90	20	NORMAL
+Thrash	100	90	20	NORMAL
+Double-Edge	100	120	15	NORMAL
+Tail Whip	100	0	30	NORMAL
+Poison Sting	100	15	35	POISON
+Twineedle	100	25	20	BUG
+Pin Missile	85	14	20	BUG
+Leer	100	0	30	NORMAL
+Bite	100	60	25	DARK
+Growl	100	0	40	NORMAL
+Roar	100	0	20	NORMAL
+Sing	55	0	15	NORMAL
+Supersonic	55	0	20	NORMAL
+SonicBoom	90	-1	20	NORMAL
+Disable	55	0	20	NORMAL
+Acid	100	40	30	POISON
+Ember	100	40	25	FIRE
+Flamethrower	100	95	15	FIRE
+Mist	0	0	30	ICE
+Water Gun	100	40	25	WATER
+Hydro Pump	80	120	5	WATER
+Surf	100	95	15	WATER
+Ice Beam	100	95	10	ICE
+Blizzard	70	120	5	ICE
+Psybeam	100	65	20	PSYCHIC
+BubbleBeam	100	65	20	WATER
+Aurora Beam	100	65	20	ICE
+Hyper Beam	90	150	5	NORMAL
+Peck	100	35	35	FLYING
+Drill Peck	100	80	20	FLYING
+Submission	80	80	25	FIGHTING
+Low Kick	100	-1	20	FIGHTING
+Counter	100	-1	20	FIGHTING
+Seismic Toss	100	-1	20	FIGHTING
+Strength	100	80	15	NORMAL
+Absorb	100	20	20	GRASS
+Mega Drain	100	40	10	GRASS
+Leech Seed	90	0	10	GRASS
+Growth	0	0	40	NORMAL
+Razor Leaf	95	55	25	GRASS
+SolarBeam	100	120	10	GRASS
+PoisonPowder	75	0	35	POISON
+Stun Spore	75	0	30	GRASS
+Sleep Powder	75	0	15	GRASS
+Petal Dance	100	70	20	GRASS
+String Shot	95	0	40	BUG
+Dragon Rage	100	-1	10	DRAGON
+Fire Spin	70	15	15	FIRE
+ThunderShock	100	40	30	ELECTRIC
+Thunderbolt	100	95	15	ELECTRIC
+Thunder Wave	100	0	20	ELECTRIC
+Thunder	70	120	10	ELECTRIC
+Rock Throw	90	50	15	ROCK
+Earthquake	100	100	10	GROUND
+Fissure	30	-1	5	GROUND
+Dig	100	60	10	GROUND
+Toxic	85	0	10	POISON
+Confusion	100	50	25	PSYCHIC
+Psychic	100	90	10	PSYCHIC
+Hypnosis	60	0	20	PSYCHIC
+Meditate	0	0	40	PSYCHIC
+Agility	0	0	30	PSYCHIC
+Quick Attack	100	40	30	NORMAL
+Rage	100	20	20	NORMAL
+Teleport	0	0	20	PSYCHIC
+Night Shade	100	-1	15	GHOST
+Mimic	100	0	10	NORMAL
+Screech	85	0	40	NORMAL
+Double Team	0	0	15	NORMAL
+Recover	0	0	20	NORMAL
+Harden	0	0	30	NORMAL
+Minimize	0	0	20	NORMAL
+SmokeScreen	100	0	20	NORMAL
+Confuse Ray	100	0	10	GHOST
+Withdraw	0	0	40	WATER
+Defense Curl	0	0	40	NORMAL
+Barrier	0	0	30	PSYCHIC
+Light Screen	0	0	30	PSYCHIC
+Haze	0	0	30	ICE
+Reflect	0	0	20	PSYCHIC
+Focus Energy	0	0	30	NORMAL
+Bide	100	-1	10	NORMAL
+Metronome	0	0	10	NORMAL
+Mirror Move	0	0	20	FLYING
+Selfdestruct	100	200	5	NORMAL
+Egg Bomb	75	100	10	NORMAL
+Lick	100	20	30	GHOST
+Smog	70	20	20	POISON
+Sludge	100	65	20	POISON
+Bone Club	85	65	20	GROUND
+Fire Blast	85	120	5	FIRE
+Waterfall	100	80	15	WATER
+Clamp	75	35	10	WATER
+Swift	0	60	20	NORMAL
+Skull Bash	100	100	15	NORMAL
+Spike Cannon	100	20	15	NORMAL
+Constrict	100	10	35	NORMAL
+Amnesia	0	0	20	PSYCHIC
+Kinesis	80	0	15	PSYCHIC
+Softboiled	100	0	10	NORMAL
+Hi Jump Kick	90	85	20	FIGHTING
+Glare	75	0	30	NORMAL
+Dream Eater	100	100	15	PSYCHIC
+Poison Gas	55	0	40	POISON
+Barrage	85	15	20	NORMAL
+Leech Life	100	20	15	BUG
+Lovely Kiss	75	0	10	NORMAL
+Sky Attack	90	140	5	FLYING
+Transform	0	0	10	NORMAL
+Bubble	100	20	30	WATER
+Dizzy Punch	100	70	10	NORMAL
+Spore	100	0	15	GRASS
+Flash	70	0	20	NORMAL
+Psywave	80	-1	15	PSYCHIC
+Splash	0	0	40	NORMAL
+Acid Armor	0	0	40	POISON
+Crabhammer	85	90	10	WATER
+Explosion	100	250	5	NORMAL
+Fury Swipes	80	18	15	NORMAL
+Bonemerang	90	50	10	GROUND
+Rest	0	0	10	PSYCHIC
+Rock Slide	90	75	10	ROCK
+Hyper Fang	90	80	15	NORMAL
+Sharpen	0	0	30	NORMAL
+Conversion	0	0	30	NORMAL
+Tri Attack	100	80	10	NORMAL
+Super Fang	90	-1	10	NORMAL
+Slash	100	70	20	NORMAL
+Substitute	0	0	10	NORMAL
+Struggle	100	50	1	NORMAL
+Sketch	0	0	1	NORMAL
+Triple Kick	90	10	10	FIGHTING
+Thief	100	40	10	DARK
+Spider Web	100	0	10	BUG
+Mind Reader	100	0	5	NORMAL
+Nightmare	100	0	15	GHOST
+Flame Wheel	100	60	25	FIRE
+Snore	100	40	15	NORMAL
+Curse	0	0	10	???
+Flail	100	-1	15	NORMAL
+Conversion 2	100	0	30	NORMAL
+Aeroblast	95	100	5	FLYING
+Cotton Spore	85	0	40	GRASS
+Reversal	100	-1	15	FIGHTING
+Spite	100	0	10	GHOST
+Powder Snow	100	40	25	ICE
+Protect	0	0	10	NORMAL
+Mach Punch	100	40	30	FIGHTING
+Scary Face	90	0	10	NORMAL
+Faint Attack	0	60	20	DARK
+Sweet Kiss	75	0	10	NORMAL
+Belly Drum	0	0	10	NORMAL
+Sludge Bomb	100	90	10	POISON
+Mud-Slap	100	20	10	GROUND
+Octazooka	85	65	10	WATER
+Spikes	0	0	20	GROUND
+Zap Cannon	50	100	5	ELECTRIC
+Foresight	100	0	40	NORMAL
+Destiny Bond	0	0	5	GHOST
+Perish Song	0	0	5	NORMAL
+Icy Wind	95	55	15	ICE
+Detect	0	0	5	FIGHTING
+Bone Rush	80	25	10	GROUND
+Lock-On	100	0	5	NORMAL
+Outrage	100	90	15	DRAGON
+Sandstorm	0	0	10	ROCK
+Giga Drain	100	60	5	GRASS
+Endure	0	0	10	NORMAL
+Charm	100	0	20	NORMAL
+Rollout	90	30	20	ROCK
+False Swipe	100	40	40	NORMAL
+Swagger	90	0	15	NORMAL
+Milk Drink	0	0	10	NORMAL
+Spark	100	65	20	ELECTRIC
+Fury Cutter	95	10	20	BUG
+Steel Wing	90	70	25	STEEL
+Mean Look	100	0	5	NORMAL
+Attract	100	0	15	NORMAL
+Sleep Talk	0	0	10	NORMAL
+Heal Bell	0	0	5	NORMAL
+Return	100	-1	20	NORMAL
+Present	90	-1	15	NORMAL
+Frustration	100	-1	20	NORMAL
+Safeguard	0	0	25	NORMAL
+Pain Split	100	0	20	NORMAL
+Sacred Fire	95	100	5	FIRE
+Magnitude	100	-1	30	GROUND
+DynamicPunch	50	100	5	FIGHTING
+Megahorn	85	120	10	BUG
+DragonBreath	100	60	20	DRAGON
+Baton Pass	0	0	40	NORMAL
+Encore	100	0	5	NORMAL
+Pursuit	100	40	20	DARK
+Rapid Spin	100	20	40	NORMAL
+Sweet Scent	100	0	20	NORMAL
+Iron Tail	75	100	15	STEEL
+Metal Claw	95	50	35	STEEL
+Vital Throw	100	70	10	FIGHTING
+Morning Sun	0	0	5	NORMAL
+Synthesis	0	0	5	GRASS
+Moonlight	0	0	5	NORMAL
+Hidden Power	100	-1	15	NORMAL
+Cross Chop	80	100	5	FIGHTING
+Twister	100	40	20	DRAGON
+Rain Dance	0	0	5	WATER
+Sunny Day	0	0	5	FIRE
+Crunch	100	80	15	DARK
+Mirror Coat	100	-1	20	PSYCHIC
+Psych Up	0	0	10	NORMAL
+ExtremeSpeed	100	80	5	NORMAL
+AncientPower	100	60	5	ROCK
+Shadow Ball	100	80	15	GHOST
+Future Sight	90	80	15	PSYCHIC
+Rock Smash	100	20	15	FIGHTING
+Whirlpool	70	15	15	WATER
+Beat Up	100	10	10	DARK
+Fake Out	100	40	10	NORMAL
+Uproar	100	50	10	NORMAL
+Stockpile	0	0	10	NORMAL
+Spit Up	100	100	10	NORMAL
+Swallow	0	0	10	NORMAL
+Heat Wave	90	100	10	FIRE
+Hail	0	0	10	ICE
+Torment	100	0	15	DARK
+Flatter	100	0	15	DARK
+Will-O-Wisp	75	0	15	FIRE
+Memento	100	0	10	DARK
+Facade	100	70	20	NORMAL
+Focus Punch	100	150	20	FIGHTING
+SmellingSalt	100	60	10	NORMAL
+Follow Me	100	0	20	NORMAL
+Nature Power	0	0	20	NORMAL
+Charge	100	0	20	ELECTRIC
+Taunt	100	0	20	DARK
+Helping Hand	100	0	20	NORMAL
+Trick	100	0	10	PSYCHIC
+Role Play	100	0	10	PSYCHIC
+Wish	100	0	10	NORMAL
+Assist	100	0	20	NORMAL
+Ingrain	100	0	20	GRASS
+Superpower	100	120	5	FIGHTING
+Magic Coat	100	0	15	PSYCHIC
+Recycle	100	0	10	NORMAL
+Revenge	100	60	10	FIGHTING
+Brick Break	100	75	15	FIGHTING
+Yawn	100	0	10	NORMAL
+Knock Off	100	20	20	DARK
+Endeavor	100	-1	5	NORMAL
+Eruption	100	150	5	FIRE
+Skill Swap	100	0	10	PSYCHIC
+Imprison	100	0	10	PSYCHIC
+Refresh	100	0	20	NORMAL
+Grudge	100	0	5	GHOST
+Snatch	100	0	10	DARK
+Secret Power	100	70	20	NORMAL
+Dive	100	60	10	WATER
+Arm Thrust	100	15	20	FIGHTING
+Camouflage	100	0	20	NORMAL
+Tail Glow	100	0	20	BUG
+Luster Purge	100	70	5	PSYCHIC
+Mist Ball	100	70	5	PSYCHIC
+FeatherDance	100	0	15	FLYING
+Teeter Dance	100	0	20	NORMAL
+Blaze Kick	90	85	10	FIRE
+Mud Sport	100	0	15	GROUND
+Ice Ball	90	30	20	ICE
+Needle Arm	100	60	15	GRASS
+Slack Off	100	0	10	NORMAL
+Hyper Voice	100	90	10	NORMAL
+Poison Fang	100	50	15	POISON
+Crush Claw	95	75	10	NORMAL
+Blast Burn	90	150	5	FIRE
+Hydro Cannon	90	150	5	WATER
+Meteor Mash	85	100	10	STEEL
+Astonish	100	30	15	GHOST
+Weather Ball	100	50	10	NORMAL
+Aromatherapy	0	0	5	GRASS
+Fake Tears	100	0	20	DARK
+Air Cutter	95	55	25	FLYING
+Overheat	90	140	5	FIRE
+Odor Sleuth	100	0	40	NORMAL
+Rock Tomb	80	50	10	ROCK
+Silver Wind	100	60	5	BUG
+Metal Sound	85	0	40	STEEL
+GrassWhistle	55	0	15	GRASS
+Tickle	100	0	20	NORMAL
+Cosmic Power	0	0	20	PSYCHIC
+Water Spout	100	150	5	WATER
+Signal Beam	100	75	15	BUG
+Shadow Punch	0	60	20	GHOST
+Extrasensory	100	80	30	PSYCHIC
+Sky Uppercut	90	85	15	FIGHTING
+Sand Tomb	70	15	15	GROUND
+Sheer Cold	30	-1	5	ICE
+Muddy Water	85	95	10	WATER
+Bullet Seed	100	10	30	GRASS
+Aerial Ace	0	60	20	FLYING
+Icicle Spear	100	10	30	ICE
+Iron Defense	0	0	15	STEEL
+Block	100	0	5	NORMAL
+Howl	0	0	40	NORMAL
+Dragon Claw	100	80	15	DRAGON
+Frenzy Plant	90	150	5	GRASS
+Bulk Up	0	0	20	FIGHTING
+Bounce	85	85	5	FLYING
+Mud Shot	95	55	15	GROUND
+Poison Tail	100	50	25	POISON
+Covet	100	40	40	NORMAL
+Volt Tackle	100	120	15	ELECTRIC
+Magical Leaf	0	60	20	GRASS
+Water Sport	100	0	15	WATER
+Calm Mind	0	0	20	PSYCHIC
+Leaf Blade	100	70	15	GRASS
+Dragon Dance	0	0	20	DRAGON
+Rock Blast	80	25	10	ROCK
+Shock Wave	0	60	20	ELECTRIC
+Water Pulse	100	60	20	WATER
+Doom Desire	85	120	5	STEEL
+Psycho Boost	90	140	5	PSYCHIC

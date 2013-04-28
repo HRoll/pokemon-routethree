@@ -1,0 +1,5 @@
+stats
+T327 -v 2 -ydef -1 -xatk -1
+stats
+T104 -v 1//bug catcher sammy
+stats
