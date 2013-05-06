@@ -1560,9 +1560,6 @@ public class Constants {
         {Type.WATER},
         {Type.WATER},
         {Type.NORMAL},
-        {Type.FIRE},
-        {Type.WATER},
-        {Type.ICE},
         {Type.NORMAL},
         {Type.GHOST},
         {Type.GHOST},
@@ -1599,7 +1596,7 @@ public class Constants {
         {Type.STEEL, Type.PSYCHIC},
         {Type.PSYCHIC},
         };
-
+    
     static final String[][] poke_abilities = {
         {""},
         {"Overgrow"},
